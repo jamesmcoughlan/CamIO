@@ -1,2 +1,2 @@
 # CamIO
-"Camera Input-Output" software to make audio labels for 2D and 3D objects
+"Camera Input-Output" software to create interactive audio labels for 2D and 3D objects
